@@ -1,12 +1,15 @@
 Project Overview
+
 To analyze and predict the relationship between pharmaceutical drug usage and associated side effects in patients with various medical conditions. The project aims to monitor and visualize how certain drugs impact health conditions over time using intuitive indicators (e.g., arrow drop up/down icons) to signify trends in side effects or condition severity.
  
-Tools Used  
+Tools Used 
+
 Programming Languages : Python, Machine learning 
 Database: SQL  
 Spreadsheet Software: Excel  
 
 About Dataset
+
 Data contains details of various drugs (used for conditions like Acne, Cancer,
 Heart Disease, etc. ) and their side effects
 Drugs detail URLs were collected from following dataset Major Column Descriptors:
